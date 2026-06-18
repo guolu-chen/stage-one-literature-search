@@ -1,0 +1,8 @@
+Exit code: 0
+Wall time: 4.1 seconds
+Output:
+interface:
+  display_name: "一阶段文献检索"
+  short_description: "一阶段检索近五年高质量科研文献并生成经分区与代码核验的中文矩阵"
+  default_prompt: "使用 $stage-one-literature-search 为我的研究主题构建经核验的近五年高质量中文文献矩阵。"
+
