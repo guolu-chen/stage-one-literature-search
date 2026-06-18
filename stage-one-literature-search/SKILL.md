@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 1.2 seconds
-Output:
 ---
 name: stage-one-literature-search
 description: Use when conducting stage-one or preliminary academic literature searches, screening high-quality papers from the most recent five years, or creating a literature library or matrix specifically for that stage-one or preliminary five-year high-quality literature search; journal-ranking, PDF, and code verification trigger this skill only as part of that search.
@@ -81,4 +78,3 @@ description: Use when conducting stage-one or preliminary academic literature se
 - 所有不可访问来源和覆盖缺口已写入最终库；
 - “未找到”“未核验”“不存在”含义未混淆；
 - 最终仅有一个 Markdown 文献库，没有任何过程性附件。
-
