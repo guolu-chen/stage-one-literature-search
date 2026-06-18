@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 4 seconds
-Output:
 # Stage One Literature Search
 
 面向科研选题与开题阶段的一阶段文献检索 skill。它聚焦近五年高质量工作，优先筛选 JCR JIF Q1/Q2、中科院一区/二区期刊和 CCF A/B 会议；预印本与尚未完成等级核验的论文只作为明确标注的例外。输出包括中文摘要、PDF 与官方代码核验结果，并统一沉淀到单一 Markdown 文献库。
@@ -39,4 +36,3 @@ python scripts/install-skill-from-github.py --repo guolu-chen/stage-one-literatu
 重启后可发送：
 
 > 请使用 stage-one-literature-search，为“多模态大模型在医学影像报告生成中的应用”开展一阶段近五年高质量文献检索，并建立单一 Markdown 文献库。
-
